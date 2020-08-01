@@ -1,2 +1,0 @@
-# Fox-Forwarder
-Fox Forwarder
